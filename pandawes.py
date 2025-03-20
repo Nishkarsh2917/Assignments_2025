@@ -2,9 +2,15 @@ import pandas as pd
 
 
 data = {
+
     "Name": ["Alice", "Bob", "Charlie", "Diana", "Ethan"],
     "Age": [28, 34, 25, 42, 30],
     "Salary": [70000, 80000, 50000, 110000, 75000],
+
+
+
+
+    
 }
 
 df = pd.DataFrame(data)
